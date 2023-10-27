@@ -11,6 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "@types/three": "^0.158.0",
+    "clean-webpack-plugin": "^4.0.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.3",
+    "terser-webpack-plugin": "^5.3.9",
     "ts-loader": "^9.5.0",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
