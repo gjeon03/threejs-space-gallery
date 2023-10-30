@@ -1,1 +1,1 @@
-# threejs-side-project
+# threejs-space-gallery
